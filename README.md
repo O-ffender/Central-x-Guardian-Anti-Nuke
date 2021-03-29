@@ -1,3 +1,7 @@
+This is a Central Anti Nuke bot Skidded by blvunt who modified it and it looks better now but its still a trash anti nuke bot:)
+
+
+
 # CENTRAL ANTI NUKE
 Central Anti Nuke, a purpose built anti-nuke Discord bot.
 
@@ -7,11 +11,14 @@ Central Anti Nuke, a purpose built anti-nuke Discord bot.
 If you want to properly host this bot I suggest hosting it on Glitch
 Glitch allows you to have easier access to editting and sharing the Bot
 
+### Repl 
+You can host this bot on Repl aswell and its an alright hosting place
+
 ---
 
 ### CREDITS
-All me. Bot made by Kumi. Dont skid. 
-#shout out to guardian
+All Credit Goes to Guardian Creator who made the bot and blvunt who edited it and me who reposted it ;). 
+
 
 ---
 
